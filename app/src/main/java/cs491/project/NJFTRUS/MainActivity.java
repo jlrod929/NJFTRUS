@@ -1,4 +1,4 @@
-//  “On my honor, I have neither received nor given any unauthorized assistance on this assignment.” -Juan Rodriguez
+
 package cs491.project.NJFTRUS;
 
 import android.content.Intent;
