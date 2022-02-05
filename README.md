@@ -5,3 +5,4 @@ CS 491 Project
 -Very rough outline of ideal application
 -Does not include Stripe implementation 
 -Uses Firebase, Google Maps API, Google Sign In API 
+ 
